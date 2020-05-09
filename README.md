@@ -7,4 +7,4 @@ This is the sports portion of the assignment
 
 ![Blues image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stltoday.com%2Fsports%2Fhockey%2Fprofessional%2Fat-last-the-st-louis-blues-are-first%2Farticle_c2952f1d-3cc7-5447-8671-3637e323166c.html&psig=AOvVaw0u7raadFBSS5Z6zBOQTsYA&ust=1589080621660000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj27uPopekCFQAAAAAdAAAAABAD)
 
--The other team is the Cardinals, I don't follow them as closely but I do still enjoy watching games.
+-The other team is the Cardinals, I don't follow them as closely but I do still enjoy watching games. 
